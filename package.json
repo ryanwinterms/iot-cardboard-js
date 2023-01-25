@@ -53,7 +53,7 @@
         "copy-to-clipboard": "^3.3.1",
         "d3-force": "^3.0.0",
         "dot-prop": "^7.2.0",
-        "dtdl-parser-interop": "^1.0.2",
+        "dtdl-parser-interop": "file:dtdl-parser-interop-1.0.2.tgz",
         "eslint-plugin-react-hooks": "^4.5.0",
         "expr-eval": "^2.0.2",
         "fast-json-patch": "^3.0.0-1",
