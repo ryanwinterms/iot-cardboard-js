@@ -3,7 +3,7 @@ const ESLintPlugin = require('eslint-webpack-plugin');
 const CopyPlugin = require('copy-webpack-plugin');
 const postcssUrl = require('postcss-url');
 const AppSourceDir = path.join(__dirname, '..', 'src');
-const AppDistDir = path.join(__dirname, '..', 'dist');
+const AppDistDir = path.join(__dirname, '..', 'storybook-static');
 
 module.exports = {
     stories:
